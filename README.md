@@ -1,7 +1,9 @@
+For Websites that disable pasting passwords, etc,
 ### Auto hot key script : Clip.ahk
-##### Recommended Download and first install autohotkey version 2 from official source
-- please download the auto hot key v2 from official [website](https://www.autohotkey.com/)
+##### Download and first install autohotkey version 2 from official source
 - . Run this script `clip.ahk` (Or you may put it in your startup folder) .
+- Press Ctrl+Q to enable/disable function
+- Is disabled automatically after 2 minute
 
-Normal multi-line paste will not work when stealth paste is enabled
-it only copies/pastes the first line of copied text`
+Multi-line paste does not work with special paste enabled
+it only pastes the first line of copied text`
