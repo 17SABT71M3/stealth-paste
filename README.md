@@ -5,5 +5,5 @@ For Websites that disable pasting passwords, etc,
 - Press Ctrl+Q to enable/disable function
 - Is disabled automatically after 2 minute
 
-Multi-line paste does not work with special paste enabled
-it only pastes the first line of copied text`
+Multi-line paste does not work with special paste enabled<br>
+it only pastes the first line of copied text
